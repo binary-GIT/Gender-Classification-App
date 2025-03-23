@@ -16,3 +16,5 @@ This AI model classifies gender using Logistic Regression trained on facial feat
 ✅ Interactive Web App – Built using Gradio, allowing real-time predictions.
 ✅ User-Friendly UI – Modern design with icons, buttons & organized layout.
 ✅ Fast & Lightweight – Loads instantly and requires minimal system resources.
+
+![image](https://github.com/user-attachments/assets/dc24aeb3-2c2d-4d9e-b040-29f5ea4f10dc)
